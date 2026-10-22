@@ -152,6 +152,21 @@ To create a custom configuration:
 - `MegaGNN/layer/`: Custom GNN layer implementations
 - `configs/`: Configuration files for different model variants and datasets
 
+## Citation
+
+If you use this code or build on our work, please cite:
+
+```bibtex
+@article{bilgi2026mega,
+  title={{MEGA}: Message Passing Neural Networks for Multigraphs with EdGe Attributes},
+  author={H. {\c{C}}a{\u{g}}r{\i} Bilgi and Kubilay Atasu},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2026},
+  url={https://openreview.net/forum?id=Jo4KBvnMIP}
+}
+```
+
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
